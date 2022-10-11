@@ -5,8 +5,6 @@ Si el número es terminado en 7, que imprima “No se toma con azúcar”.
 Si no se cumplen ninguno de estos casos, imprimir el número.
  */
 
-console.log("jjl");
-
 let contador = 1;
 
 while (contador <=50) {
