@@ -3,7 +3,7 @@ Tu auto es de la marca {Marca}, su modelo es {modelo} y tiene un costo de {valor
  */
 
 let modelo = "Ford";
-let marca = "Ford1.0";
+let marca = "Ford Anglia 105E";
 let valor = 1000;
 
 function información(Modelo, Marca, Valor) {
